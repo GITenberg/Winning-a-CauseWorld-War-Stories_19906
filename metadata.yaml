@@ -1,0 +1,33 @@
+_repo: Winning-a-CauseWorld-War-Stories_19906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Thompson, John G. (John Gilbert)
+    alias: Thompson, John Gilbert
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '8954'
+    url: http://www.gutenberg.org/2009/agents/8954
+  - agent_name: Bigwood, Inez
+    gutenberg_agent_id: '8955'
+    url: http://www.gutenberg.org/2009/agents/8955
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcc 'D501'
+- !lcsh 'Readers -- World War, 1914-1918'
+- !lcsh 'Readers -- History'
+title: 'Winning a Cause: World War Stories'
+url: http://www.gutenberg.org/ebooks/19906
